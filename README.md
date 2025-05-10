@@ -1,2 +1,2 @@
 # bookmarks
-An webpage for all my bookmarks
+A webpage for all my bookmarks
